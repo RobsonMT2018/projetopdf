@@ -7,9 +7,13 @@
 ## IMAGEM DO PROJETO
 <h1 align="center">
     <img src="https://github.com/RobsonMT2018/projetopdf/blob/main/logo.png"/>
+    <img src="https://github.com/RobsonMT2018/projetopdf/blob/main/logo1.png"/>
 </h1>
 
+
+
+
 ## STATUS DO PROJETO
-<h4 align="center"> 
+<h2 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
-</h4>
+</h2>
